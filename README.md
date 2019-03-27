@@ -1,7 +1,7 @@
 # TP_LANGUAGE_MIPS
 Programme assembleur
 
-java -jar /home/sasl/shared/main3/archi//Mars4_5.jar
+java -jar Mars4_5.jar
 
 La donnée est dans le fichier pdf TP_mips
 
